@@ -30,7 +30,7 @@ Mevcut tek modlu veya insan gücüne dayalı sistemlerin aksine, bu proje aşağ
 ## 📊 Testler ve Doğrulama
 Proje kapsamında, sensörlerin laboratuvar ortamında Co-57, Ba-133, Cs-137, Co-60 ve Na-22 gibi referans nokta kaynaklarla yapılan spektrogram analizleri ve SiPM kalibrasyon verilerine `Data_and_Tests` klasöründen ulaşabilirsiniz. *(Not: İlgili laboratuvar sonuçları periyodik olarak depoya eklenecektir.)*
 
-📺 İlk Prototip Testimiz: NaI(Tl) sintilatör, trapezoid ışık kılavuzu ve SiPM entegrasyonu ile Co-60 radyasyon kaynağı (1uC) kullanılarak elde edilen başarılı spektrogram ölçümümüzün çalışma videosuna [buradan ulaşabilirsiniz]([https://drive.google.com/file/d/1g35rweCjSjMmGLuvsT9HXGkn70xLXUfY/view?usp=sharing](https://drive.google.com/file/d/1g35rweCjSjMmGLuvsT9HXGkn7oxLXUfY/view)).
+📺 İlk Prototip Testimiz: NaI(Tl) sintilatör, trapezoid ışık kılavuzu ve SiPM entegrasyonu ile Co-60 radyasyon kaynağı (1uC) kullanılarak elde edilen başarılı spektrogram ölçümümüzün çalışma videosuna [buradan ulaşabilirsiniz]((https://drive.google.com/file/d/1g35rweCjSjMmGLuvsT9HXGkn7oxLXUfY/view)).
 
 ## 🤝 İşbirliği ve İletişim (Call to Action)
 Bu teknoloji, nükleer tesis güvenliği, acil durum yönetimi (AFAD, KBRN birimleri) ve çevresel izleme için kullanıma hazırdır. 
