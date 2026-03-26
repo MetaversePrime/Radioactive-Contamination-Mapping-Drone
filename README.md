@@ -27,10 +27,10 @@ Mevcut tek modlu veya insan gücüne dayalı sistemlerin aksine, bu proje aşağ
 * **Mekanik Platform:** 5 kg faydalı yük kapasiteli, minimum 30 dakika uçuş süresine sahip, karbonfiber kompozit döner kanatlı İHA platformu. *(Bkz: `Hardware/Mechanics`)*
 * **Veri Kaydı:** Sensör ve uçuş kontrolcüsü arasında elektromanyetik paraziti önlemek amaçlı izole edilmiş, bağımsız enerji yönetimli veri toplama ünitesi (DAQ).
 
-## 📊 Testler ve Doğrulama
-Proje kapsamında, sensörlerin laboratuvar ortamında Co-57, Ba-133, Cs-137, Co-60 ve Na-22 gibi referans nokta kaynaklarla yapılan spektrogram analizleri ve SiPM kalibrasyon verilerine `Data_and_Tests` klasöründen ulaşabilirsiniz. *(Not: İlgili laboratuvar sonuçları periyodik olarak depoya eklenecektir.)*
+### 📺 İlk Prototip Test Videosu
+Sistemin sadece teorik bir tasarım olmadığını kanıtlayan ilk donanım testlerimiz başarıyla tamamlanmıştır. NaI(Tl) sintilatör, trapezoid ışık kılavuzu ve SiPM entegrasyonu kullanılarak, **Co-60 radyasyon kaynağı (1uC)** ile elde edilen spektrogram ölçümümüzün çalışma videosuna aşağıdan ulaşabilirsiniz:
 
-📺 İlk Prototip Testimiz: NaI(Tl) sintilatör, trapezoid ışık kılavuzu ve SiPM entegrasyonu ile Co-60 radyasyon kaynağı (1uC) kullanılarak elde edilen başarılı spektrogram ölçümümüzün çalışma videosuna [buradan ulaşabilirsiniz]((https://drive.google.com/file/d/1g35rweCjSjMmGLuvsT9HXGkn7oxLXUfY/view)).
+🔗 **[SiPM Tabanlı Dedektör Prototip Test Videosunu İzle](https://drive.google.com/file/d/1g35rweCjSjMmGLuvsT9HXGkn7oxLXUfY/view)**
 
 ## 🤝 İşbirliği ve İletişim (Call to Action)
 Bu teknoloji, nükleer tesis güvenliği, acil durum yönetimi (AFAD, KBRN birimleri) ve çevresel izleme için kullanıma hazırdır. 
